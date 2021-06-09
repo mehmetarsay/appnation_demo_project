@@ -2,15 +2,8 @@
 
 AppNation Şirketi iş başvurusu için demo projesi
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_1623248896](https://user-images.githubusercontent.com/52586509/121373895-1e69a380-c948-11eb-9a72-ee15945535ec.png)
+![Screenshot_1623248901](https://user-images.githubusercontent.com/52586509/121373901-1f9ad080-c948-11eb-8504-1b6947cfed9c.png)
+![Screenshot_1623248891](https://user-images.githubusercontent.com/52586509/121373904-20336700-c948-11eb-8c03-70a0a666d3e6.png)
+![Screenshot_1623248888](https://user-images.githubusercontent.com/52586509/121373913-21fd2a80-c948-11eb-9a93-52fc53e15322.png)
