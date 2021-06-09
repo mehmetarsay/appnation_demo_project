@@ -4,7 +4,8 @@
 AppNation Şirketi iş başvurusu için demo projesi
 
 
-![2021-06-09 17-40-32](https://user-images.githubusercontent.com/52586509/121376075-e5323300-c949-11eb-9395-ced9256a8078.gif)
+![2021-06-09 17-40-32](https://user-images.githubusercontent.com/52586509/121376361-20ccfd00-c94a-11eb-83fa-fb1465a77652.gif)
+
 
 
 
