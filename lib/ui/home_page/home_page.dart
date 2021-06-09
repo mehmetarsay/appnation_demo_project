@@ -13,6 +13,9 @@ class HomePage extends StatefulWidget {
 }
 
 class _HomePageState extends BaseState<HomePage> {
+
+  ScrollController _scrollController = ScrollController();
+
   @override
   void dispose() {
     // TODO: implement dispose
@@ -35,6 +38,7 @@ class _HomePageState extends BaseState<HomePage> {
         appBar: buildAppBar(context),
         body: context.watch<HomePageViewMopdel>().wait == false
             ? SingleChildScrollView(
+          controller: _scrollController,
                 physics: BouncingScrollPhysics(),
                 child: Column(
                   children: [
@@ -49,6 +53,7 @@ class _HomePageState extends BaseState<HomePage> {
             : Center(child: CircularProgressIndicator()));
   }
 
+  //appbar öğelerini oluşturur
   AppBar buildAppBar(BuildContext context) {
     return AppBar(
       title: Row(
@@ -99,7 +104,7 @@ class _HomePageState extends BaseState<HomePage> {
       ),
     );
   }
-
+//bir paylaşımı görüntüler
   Widget sharingView(ShareModel share) {
     return InkWell(
       onTap: () {
@@ -207,7 +212,7 @@ class _HomePageState extends BaseState<HomePage> {
       ),
     );
   }
-
+//bir paylaşımı aşağıdan açar
   Padding showBottomSheet(ShareModel share, BuildContext context) {
     return Padding(
       padding: const EdgeInsets.symmetric(horizontal: 8.0,vertical: 15),
@@ -274,4 +279,5 @@ class _HomePageState extends BaseState<HomePage> {
       ),
     );
   }
+
 }
