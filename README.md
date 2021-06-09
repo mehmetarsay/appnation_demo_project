@@ -1,8 +1,7 @@
 
 # appnation_demo_project
 
-AppNation Şirketi iş başvurusu için demo projesi
-
+Flutter ile Redditten basit veri çekme
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/52586509/121376777-7903ff00-c94a-11eb-9f0a-a712717132c5.gif)
 
