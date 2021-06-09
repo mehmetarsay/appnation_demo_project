@@ -2,9 +2,8 @@
 
 AppNation Şirketi iş başvurusu için demo projesi
 
-![Screenshot_1622319884_360x640](https://user-images.githubusercontent.com/52586509/121374980-05152700-c949-11eb-8c77-d7016f8bf59f.jpg)
+![Screenshot_1623248901_320x640](https://user-images.githubusercontent.com/52586509/121375125-28d86d00-c949-11eb-8520-501b8bed44f3.jpg)
+![Screenshot_1623248896_320x640](https://user-images.githubusercontent.com/52586509/121375130-29710380-c949-11eb-98b5-0fce89c0b517.jpg)
+![Screenshot_1623248891_320x640](https://user-images.githubusercontent.com/52586509/121375132-2aa23080-c949-11eb-81fb-31c2431e0cd3.jpg)
+![Screenshot_1623248888_320x640](https://user-images.githubusercontent.com/52586509/121375161-30981180-c949-11eb-9b65-9d6ff5ca2a6a.jpg)
 
-![](https://user-images.githubusercontent.com/52586509/121373895-1e69a380-c948-11eb-9a72-ee15945535ec.png)
-![](https://user-images.githubusercontent.com/52586509/121373901-1f9ad080-c948-11eb-8504-1b6947cfed9c.png)
-![](https://user-images.githubusercontent.com/52586509/121373904-20336700-c948-11eb-8c03-70a0a666d3e6.png)
-![](https://user-images.githubusercontent.com/52586509/121373913-21fd2a80-c948-11eb-9a93-52fc53e15322.png)
